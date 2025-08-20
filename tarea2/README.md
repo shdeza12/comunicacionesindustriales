@@ -57,6 +57,7 @@ El código ASCII (American Standard Code for Information Interchange) fue creado
 | 20  | DTR   | Data Terminal Ready        |
 | 22  | RI    | Ring Indicator             |
 </div>
+
 ---
 
 ## 3. Formato del protocolo RS232
