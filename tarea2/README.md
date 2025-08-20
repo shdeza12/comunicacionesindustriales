@@ -22,8 +22,10 @@ El código ASCII (American Standard Code for Information Interchange) fue creado
 
 ## 2. Pines de los conectores DB9 y DB25 en RS232
 
-<div align="center">
 ### DB9 - Descripción de pines.
+
+<div align="center">
+
 
 | Pin | Señal | Descripción                |
 |-----|-------|----------------------------|
@@ -37,8 +39,10 @@ El código ASCII (American Standard Code for Information Interchange) fue creado
 | 8   | CTS   | Clear To Send              |
 | 9   | RI    | Ring Indicator             |
 </div>
-<div align="center">
+
 ### DB25 – Pines más usados  
+
+<div align="center">
 
 | Pin | Señal | Descripción                |
 |-----|-------|----------------------------|
